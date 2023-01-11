@@ -144,6 +144,7 @@ Execute the program
 </html>
 ```
 # OUPUT:
-![model](./timetableop.png)
+![timetableop](https://user-images.githubusercontent.com/118707363/211724387-ffecb7c1-9eb1-4052-9ca4-39e37508c731.png)
+
 # RESULT:
 The html program executed successfully.
